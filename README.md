@@ -98,7 +98,7 @@ We welcome contributions and ideas!
 Feel free to reach out or follow updates:
 
 * Twitter: [@koded](https://twitter.com/akoredeszn_)
-* Email: [Akorede](korexcoded@example.com)
+* Email: [Akorede](korexcoded@gmail.com)
 
 ---
 
